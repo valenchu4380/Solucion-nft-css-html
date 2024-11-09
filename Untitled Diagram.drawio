@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="m0i1v3IpXmhCUq1Uy7xO">
-    <mxGraphModel>
+    <mxGraphModel dx="3183" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-11" value="&quot;digite un numero de 1 solo digito&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="240" as="sourcePoint" />
+            <mxPoint x="425" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-15" target="cbVn9_ks3eV0mFcZzaf7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-15" value="num1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="430" />
+              <mxPoint x="265" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-16" value="(num1 &amp;gt;= 0) y (num 1 &amp;lt; 10)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="390" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-33" value="&quot;digite un numero de 1 solo digito&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="590" as="sourcePoint" />
+            <mxPoint x="425" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-36" value="num2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="620" as="targetPoint" />
+            <mxPoint x="285" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="265" y="780" />
+              <mxPoint x="265" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="870" as="targetPoint" />
+            <mxPoint x="425" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-39" value="(num2 &amp;gt;= 0) y (num 2 &amp;lt; 10)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="740" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-40" value="&quot;digite un numero de 1 solo digito&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="940" as="sourcePoint" />
+            <mxPoint x="435" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-43" value="num3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="990" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="970" as="targetPoint" />
+            <mxPoint x="295" y="1130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="275" y="1130" />
+              <mxPoint x="275" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="1220" as="targetPoint" />
+            <mxPoint x="435" y="1170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-46" value="(num3 &amp;gt;= 0) y (num 3 &amp;lt; 10)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1090" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbVn9_ks3eV0mFcZzaf7-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437.79999999999995" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-48" value="union &amp;lt;- (num1*100)+ (num2*10)+num3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1200" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-50" value="&quot;la union de los 3 digitos es: &quot; union" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="1300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="1370" as="sourcePoint" />
+            <mxPoint x="435" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbVn9_ks3eV0mFcZzaf7-52" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1410" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
